@@ -22,5 +22,5 @@ jobs:
         key: ${{ secrets.SSH_KEY_TEST }}
         port: ${{ secrets.SSH_PORT_TEST }}
         script: |
-          cd ~/cdn-alt-third-earth
+          cd ~/cdn-urbit-press
           git pull
