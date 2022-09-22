@@ -30,10 +30,9 @@
     "warning": "FFEB61"
   }
 },
-
   "//font_descriptions": "The font block brings the two possible font groups that the site can use, [primary] being the first option and [secondary] the option that will be loaded if the primary is unavailable",
   "fonts": {
-    "primary": "Brush Script MT, cursive, Garamond, serif",
+    "primary": "Copperplate, Copperplate Gothic Light, fantasy, Brush Script MT, cursive, Garamond, serif",
     "secondary": "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
   },
   "//font_size_description": "The block f font size brings a list of sizes for the site's font, where titles h1(as a main message displayed in banner 'Hosting the future starts here') use largest, h2 (is used for the majority sub title. Ex: 'What is Urbit?' or 'Why urbit') use medium, h3(are the headers used on cards that describe the details of the urbit. Like what is the urbit id, the os urbit) use small",
