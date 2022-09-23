@@ -1,5 +1,5 @@
 {
-  "aboutWe": true,
+  "aboutWe": false,
   "client_name": "Urbit Press",
   "suppress_purchase": false,
   "client_product_card_preference": "withHero"
