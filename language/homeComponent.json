@@ -6,6 +6,10 @@
               "title": "Welcome to Urbit Press",
               "description": "A new community is taking root, and Urbit Press can get you involved in mere minutes. Are you ready?",
               "btnLetsGo": "I'm Ready"
+            },
+            "help": {
+              "title": "Where Should I Start?",
+              "description": "Choose from among the user-friendly entry-level options below, and soon you'll find yourself exploring a flourishing new community completely independent of the tech giants."
             }
         }
     }
